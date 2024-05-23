@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Newk Task",
+    "assignee": "Ege",
+    "done": true
+  },
+  {
+    "id": 1,
+    "title": "Task 2",
+    "assignee": "Ahmet",
+    "done": true
+  },
+  {
+    "id": 2,
+    "title": "New Task 3",
+    "assignee": "Mehmet",
+    "done": false
+  }
+]
